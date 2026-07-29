@@ -1,4 +1,4 @@
-# About me M. Mudaffarsyah
+# Hi all! I'm M. Mudaffarsyah
 
 ### AI & Machine Learning| Web & Mobile Developer
 
@@ -41,7 +41,16 @@ Graduated with a Bachelor's degree in Informatics Engineering. specializing in t
 ---
 
 ### Hire Me!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-M._Mudaffar_Syah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-mudaffarsyah-89752b372)
-[![Gmail](https://img.shields.io/badge/Gmail-daffasyah726%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffasyah726@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dafff_._)
+
+<p align="left">
+  <a href="https://linkedin.com/in/m-mudaffarsyah-89752b372">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35"/>
+  </a>
+  <a href="mailto:daffasyah726@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
+  </a>
+  <a href="https://instagram.com/dafff_._">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35"/>
+  </a>
+</p>
 
