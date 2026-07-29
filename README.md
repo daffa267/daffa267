@@ -41,7 +41,7 @@ Graduated with a Bachelor's degree in Informatics Engineering. specializing in t
 ---
 
 ### Hire Me!
-[!(https://img.shields.io/badge/LinkedIn-M._Mudaffar_Syah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-mudaffarsyah-89752b372)
-[!(https://img.shields.io/badge/Gmail-daffasyah726%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffasyah726@gmail.com)
-[!(https://img.shields.io/badge/Instagram-@username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dafff_._)
+![Linkedin](https://img.shields.io/badge/LinkedIn-M._Mudaffar_Syah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-mudaffarsyah-89752b372)
+![Gmail](https://img.shields.io/badge/Gmail-daffasyah726%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffasyah726@gmail.com)
+![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dafff_._)
 
