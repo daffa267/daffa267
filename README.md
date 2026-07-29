@@ -8,9 +8,9 @@ Graduated with a Bachelor's degree in Informatics Engineering. specializing in t
 
 ## 🚀 About Me
 
-🤖 Artificial Intelligence & Machine Learning
-📱 Mobile Developer
-🌐 Web Developer
+> 🤖 Artificial Intelligence & Machine Learning
+> 📱 Mobile Developer
+> 🌐 Web Developer
 
 ---
 
