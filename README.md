@@ -2,19 +2,15 @@
 
 ### 💻 Informatics Student | AI & Machine Learning Enthusiast | Full Stack Developer
 
-I'm an Informatics student from Indonesia with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, Web Development, and Mobile Development. I enjoy building intelligent applications that solve real-world problems while continuously learning new technologies.
+I've graduate from Informatics, strong interest in Artificial Intelligence, Machine Learning, Website and Mobile Developer. I enjoy building intelligent applications that solve real-world problems while continuously learning new technologies.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Informatics Student
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 📱 Mobile Developer (Kotlin Native)
-* 🌐 Full Stack Web Developer
-* 🧠 Deep Learning Enthusiast
-* 🔬 Research Interest: Federated Learning, Computer Vision, Edge AI
-* 🌱 Currently learning MLOps, LLM, and Cloud Computing
+* 🤖 Artificial Intelligence & Machine Learning
+* 📱 Mobile Developer
+* 🌐 Web Developer
 
 ---
 
@@ -30,15 +26,10 @@ I'm an Informatics student from Indonesia with a strong interest in Artificial I
 ### Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=FastAPI\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ### AI & Data Science
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
 ### Database
 
@@ -47,19 +38,11 @@ I'm an Informatics student from Indonesia with a strong interest in Artificial I
 
 ---
 
-## 📊 GitHub Stats
-
-> *(Tambahkan GitHub Readme Stats di sini)*
-
----
-
 ## 📫 Connect with Me
 
-* GitHub : https://github.com/yourusername
-* LinkedIn : https://linkedin.com/in/yourusername
-* Email : [your@email.com](mailto:your@email.com)
-* Portfolio : https://yourwebsite.com
+* LinkedIn : https://linkedin.com/in/m-mudaffarsyah-89752b372/
+* Email : muhammadmudaffarsyah@gmail.com
 
 ---
 
-> *"Keep Learning, Keep Building, Keep Growing."* 🚀
+> *"Keep Learning in this life"* 
