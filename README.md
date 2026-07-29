@@ -47,7 +47,7 @@ Graduated with a Bachelor's degree in Informatics Engineering. specializing in t
   <a href="https://linkedin.com/in/m-mudaffarsyah-89752b372">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="daffasyah726@gmail.com">
+  <a href="mailto:daffasyah726@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/dafff_._">
