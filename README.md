@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Daffa
 
-### 💻 Informatics Student | AI & Machine Learning Enthusiast | Full Stack Developer
+### AI & Machine Learning| Web & Mobile Developer
 
-I've graduate from Informatics, strong interest in Artificial Intelligence, Machine Learning, Website and Mobile Developer. I enjoy building intelligent applications that solve real-world problems while continuously learning new technologies.
+Graduated with a Bachelor's degree in Informatics Engineering. specializing in the development of websites and mobile apps based on artificial intelligence and machine learning.
 
 ---
 
@@ -40,11 +40,8 @@ I've graduate from Informatics, strong interest in Artificial Intelligence, Mach
 
 ---
 
-## 📫 Connect with Me
+### Hire Me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M._Mudaffar_Syah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-mudaffarsyah-89752b372)
+[![Gmail](https://img.shields.io/badge/Gmail-daffasyah726%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffasyah726@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
 
-* LinkedIn : https://linkedin.com/in/m-mudaffarsyah-89752b372/
-* Email : muhammadmudaffarsyah@gmail.com
-
----
-
-> *"Keep Learning in this life"* 
