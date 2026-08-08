@@ -66,10 +66,3 @@ Software Developer and Machine Learning Engineer with hands-on experience in dev
 </p>
 </details>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffa267&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-</p>
