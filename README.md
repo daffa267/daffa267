@@ -1,6 +1,6 @@
-# About M. Mudaffarsyah 👋
+# About M. Mudaffarsyah
 
-### 👨‍💻 Software Developer | Machine Learning Engineer
+### 👨‍💻 Software Developer | Machine Learning Enthusiast
 
 <p align="left">
   <a href="https://linkedin.com/in/m-mudaffarsyah-89752b372" target="_blank">
