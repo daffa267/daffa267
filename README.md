@@ -36,8 +36,6 @@ Software Developer and Machine Learning Engineer with hands-on experience in dev
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="45" height="45" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45" style="margin-right: 15px;" />
 </p>
 </details>
 
@@ -47,8 +45,6 @@ Software Developer and Machine Learning Engineer with hands-on experience in dev
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" title="Google Colab" width="45" height="45" style="margin-right: 15px;" />
 </p>
 </details>
 
@@ -59,9 +55,6 @@ Software Developer and Machine Learning Engineer with hands-on experience in dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="45" height="45" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="45" height="45" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="45" height="45" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="45" height="45" style="margin-right: 15px;" />
 </p>
 </details>
 
