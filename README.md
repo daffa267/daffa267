@@ -13,7 +13,6 @@
 
 Fresh Graduate in Informatics Engineering with experience in software development for web and mobile applications, including AI/ML model integration. Served as a Database Systems Laboratory Assistant, mentoring students during practical sessions and competency assessments. Developed an AI-powered mobile application for real-time mangrove species detection to support ecotourism. During an internship at Diskominfo Kota Tanjungpinang, contributed to UI/UX design, frontend, and backend development for the Website Survei Kepuasan Masyarakat (SKM) and Website Kelurahan Tanjungpinang Kota. For my undergraduate thesis, I analyzed the impact of local training on global model performance using Federated Learning, resulting in a distributed mobile application for waste classification. 
 
----
 
 ### 🛠️ Tech Stack & Skills
 
