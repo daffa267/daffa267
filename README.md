@@ -1,6 +1,4 @@
-# 👋 About Me
-
-### M. Mudaffarsyah
+# 👋 About M. Mudaffarsyah
 **👨‍💻 Software Developer | ML Enthusiast**
 ---
 
