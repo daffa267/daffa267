@@ -4,7 +4,6 @@
 
 A junior software developer with experience in **web development, mobile app development, and AI/ML design & development**.
 
----
 ## 🛠️ Tech Stack
 
 ### 🌐 Website Development
