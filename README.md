@@ -2,7 +2,7 @@
 
 ### M. Mudaffarsyah
 **👨‍💻 Software Developer | ML Enthusiast**
-
+[LinkedIn](https://www.linkedin.com/in/m-mudaffarsyah-89752b372/) · [Instagram](https://instagram.com/dafff_._)
 ---
 
 A junior software developer with experience in **web development, mobile app development, and AI/ML design & development**.
@@ -54,8 +54,3 @@ A junior software developer with experience in **web development, mobile app dev
 
 `MySQL` · `MongoDB` · `Git` · `GitHub`
 
----
-
-## 🔗 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/m-mudaffarsyah-89752b372/) · [Instagram](https://instagram.com/dafff_._)
