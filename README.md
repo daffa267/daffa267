@@ -7,7 +7,6 @@
 A junior software developer with experience in **web development, mobile app development, and AI/ML design & development**.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Website Development
@@ -48,8 +47,7 @@ A junior software developer with experience in **web development, mobile app dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
-`MySQL` · `MongoDB` · `Git` · `GitHub`
+`MySQL` · `MongoDB` · `Git` 
 
