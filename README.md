@@ -1,12 +1,12 @@
-# 👋 About M. Mudaffarsyah
+About M. Mudaffarsyah
 **👨‍💻 Software Developer | ML Enthusiast**
 ---
 
 A junior software developer with experience in **web development, mobile app development, and AI/ML design & development**.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### 🌐 Website Development
+🌐 Website Development
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
@@ -17,9 +17,7 @@ A junior software developer with experience in **web development, mobile app dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
-`Next.js` · `Vue.js` · `Laravel` · `FastAPI` · `PHP` · `JavaScript`
-
-### 📱 Mobile Development
+📱 Mobile Development
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
@@ -27,18 +25,14 @@ A junior software developer with experience in **web development, mobile app dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
 </p>
 
-`Kotlin` · `Dart` · `Flutter`
-
-### 🤖 AI & Machine Learning
+🤖 AI & Machine Learning
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
 </p>
 
-`Python` · `PyTorch`
-
-### 🗄️ Database & Tools
+🗄️ Database & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
@@ -46,5 +40,4 @@ A junior software developer with experience in **web development, mobile app dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-`MySQL` · `MongoDB` · `Git` 
 
