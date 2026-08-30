@@ -1,5 +1,5 @@
-About M. Mudaffarsyah
-**👨‍💻 Software Developer | ML Enthusiast**
+### About M. Mudaffarsyah
+## **👨‍💻 Software Developer | ML Enthusiast**
 ---
 
 A junior software developer with experience in **web development, mobile app development, and AI/ML design & development**.
