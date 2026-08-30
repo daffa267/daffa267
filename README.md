@@ -5,9 +5,9 @@
 A junior software developer with experience in **web development, mobile app development, and AI/ML design & development**.
 
 🛠️ Tech Stack
+---
 
 🌐 Website Development
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
