@@ -1,4 +1,4 @@
-# 👨‍💻 About Me M. Mudaffarsyah, B.Eng
+# 👨‍💻 About Me M. Mudaffarsyah
 
 Hello I'm a Fresh Graduated Informatics Engineering, Junior Software Developer that Develop Websites, Mobile Apps and have Enthusiast to AI Research.
 
