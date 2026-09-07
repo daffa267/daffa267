@@ -1,6 +1,6 @@
 # 👨‍💻 About Me M. Mudaffarsyah
 
-Hello I'm a Fresh Graduated Informatics Engineering, Junior Software Developer that Develop Websites, Mobile Apps and have Enthusiast to AI Research.
+Hello I'm a Fresh Graduated Informatics Engineering, Junior Software Developer that Develop Websites, Mobile Apps and Enthusiast to AI/ML Research.
 
 <p>
   <a href="https://www.linkedin.com/in/m-mudaffarsyah-89752b372/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
